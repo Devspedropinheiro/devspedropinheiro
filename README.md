@@ -1,4 +1,4 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Olá seja bem vindo!</h1>
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">Eu programo em</h2>
 
 ###
 
