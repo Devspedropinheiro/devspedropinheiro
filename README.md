@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Iniciante na área de programação <br>📚 Atualmente estou estudando HTML e CSS <br>🎯 Me tornar Progrmador ful stack, especializar em banco de dados, IA e outras tecnologias e linguagens <br>🎲 Sou muito comunicativo e gosto de resolver problemas e implementar ideias</p>
+<p align="left">✨ Iniciante na área de programação <br>📚 Atualmente estou estudando HTML e CSS <br>🎯 Me tornar Programador ful stack, especializar em banco de dados, IA e outras tecnologias e linguagens <br>🎲 Sou muito comunicativo e gosto de resolver problemas e implementar ideias</p>
 
 ###
 
