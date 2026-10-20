@@ -19,7 +19,7 @@ Meu objetivo é evoluir continuamente e aprender a desenvolver soluções tecnol
 - **PHP:** fundamentos da linguagem para desenvolvimento web.
 - **Laravel:** framework que já utilizei em atividades e projetos.
 
-### Programação e conceitos
+### Programação
 
 - **C:** prática de estruturas de dados.
 - **Python:** lógica de programação e resolução de exercícios.
